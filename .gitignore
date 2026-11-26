@@ -1,0 +1,14 @@
+# Therapist-diagnosis entry — local run artefacts only
+# (keeps the repo to the program itself; the grader reads /output/entry.txt)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+output/
+entry.txt
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.venv/
+venv/
